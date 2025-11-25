@@ -1,0 +1,157 @@
+{
+  "download_date": "2025-11-21T19:05:34.896658",
+  "articles": [
+    {
+      "filename": "Mayo Clinic_hemorrhoids_20251121_190535.txt",
+      "title": "Hemorrhoids - Diagnosis and treatment - Mayo Clinic",
+      "source": "Mayo Clinic",
+      "url": "https://www.mayoclinic.org/diseases-conditions/hemorrhoids/diagnosis-treatment/drc-20360280",
+      "topic": "hemorrhoids",
+      "word_count": 9664
+    },
+    {
+      "filename": "Mayo Clinic_constipation_20251121_190537.txt",
+      "title": "Constipation - Diagnosis and treatment - Mayo Clinic",
+      "source": "Mayo Clinic",
+      "url": "https://www.mayoclinic.org/diseases-conditions/constipation/diagnosis-treatment/drc-20354259",
+      "topic": "constipation",
+      "word_count": 10589
+    },
+    {
+      "filename": "Mayo Clinic_hemorrhoids_20251121_190539.txt",
+      "title": "Hemorrhoids - Symptoms and causes - Mayo Clinic",
+      "source": "Mayo Clinic",
+      "url": "https://www.mayoclinic.org/diseases-conditions/hemorrhoids/symptoms-causes/syc-20360268",
+      "topic": "hemorrhoids",
+      "word_count": 6774
+    },
+    {
+      "filename": "Mayo Clinic_constipation_20251121_190541.txt",
+      "title": "Constipation - Symptoms and causes - Mayo Clinic",
+      "source": "Mayo Clinic",
+      "url": "https://www.mayoclinic.org/diseases-conditions/constipation/symptoms-causes/syc-20354253",
+      "topic": "constipation",
+      "word_count": 6366
+    },
+    {
+      "filename": "Cleveland Clinic_constipation_20251121_190546.txt",
+      "title": "Constipation",
+      "source": "Cleveland Clinic",
+      "url": "https://my.clevelandclinic.org/health/diseases/4059-constipation",
+      "topic": "constipation",
+      "word_count": 1033
+    },
+    {
+      "filename": "WebMD_hemorrhoids_20251121_190557.txt",
+      "title": "Hemorrhoids: Symptoms, Causes, and& Treatment",
+      "source": "WebMD",
+      "url": "https://www.webmd.com/digestive-disorders/understanding-hemorrhoids-basics",
+      "topic": "hemorrhoids",
+      "word_count": 6634
+    },
+    {
+      "filename": "WebMD_constipation_20251121_190559.txt",
+      "title": "Constipation: Causes, Symptoms, and Treatment",
+      "source": "WebMD",
+      "url": "https://www.webmd.com/digestive-disorders/digestive-diseases-constipation",
+      "topic": "constipation",
+      "word_count": 5746
+    },
+    {
+      "filename": "Healthline_hemorrhoids_20251121_190606.txt",
+      "title": "Causes of Hemorrhoids and Tips for Prevention",
+      "source": "Healthline",
+      "url": "https://www.healthline.com/health/hemorrhoids",
+      "topic": "hemorrhoids",
+      "word_count": 3480
+    },
+    {
+      "filename": "Healthline_constipation_20251121_190608.txt",
+      "title": "What You Should Know About Constipation",
+      "source": "Healthline",
+      "url": "https://www.healthline.com/health/constipation",
+      "topic": "constipation",
+      "word_count": 4291
+    },
+    {
+      "filename": "MedlinePlus_hemorrhoids_20251121_190614.txt",
+      "title": "Hemorrhoids",
+      "source": "MedlinePlus",
+      "url": "https://medlineplus.gov/hemorrhoids.html",
+      "topic": "hemorrhoids",
+      "word_count": 2756
+    },
+    {
+      "filename": "MedlinePlus_constipation_20251121_190617.txt",
+      "title": "Constipation",
+      "source": "MedlinePlus",
+      "url": "https://medlineplus.gov/constipation.html",
+      "topic": "constipation",
+      "word_count": 2551
+    },
+    {
+      "filename": "MedlinePlus_general_20251121_190619.txt",
+      "title": "Hemorrhoids",
+      "source": "MedlinePlus",
+      "url": "https://medlineplus.gov/ency/article/000292.htm",
+      "topic": "general",
+      "word_count": 3296
+    },
+    {
+      "filename": "MedlinePlus_general_20251121_190621.txt",
+      "title": "Constipation in infants and children",
+      "source": "MedlinePlus",
+      "url": "https://medlineplus.gov/ency/article/003125.htm",
+      "topic": "general",
+      "word_count": 4676
+    },
+    {
+      "filename": "Harvard Health_hemorrhoids_20251121_190624.txt",
+      "title": "Hemorrhoids and what to do about them - Harvard Health",
+      "source": "Harvard Health",
+      "url": "https://www.health.harvard.edu/diseases-and-conditions/hemorrhoids_and_what_to_do_about_them",
+      "topic": "hemorrhoids",
+      "word_count": 9249
+    },
+    {
+      "filename": "Harvard Health_constipation_20251121_190627.txt",
+      "title": "Constipation and Impaction - Harvard Health",
+      "source": "Harvard Health",
+      "url": "https://www.health.harvard.edu/digestive-health/constipation-and-impaction",
+      "topic": "constipation",
+      "word_count": 4076
+    },
+    {
+      "filename": "NHS UK_hemorrhoids_20251121_190644.txt",
+      "title": "Piles (haemorrhoids)",
+      "source": "NHS (UK)",
+      "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/",
+      "topic": "hemorrhoids",
+      "word_count": 3095
+    },
+    {
+      "filename": "NHS UK_constipation_20251121_190646.txt",
+      "title": "Constipation",
+      "source": "NHS (UK)",
+      "url": "https://www.nhs.uk/conditions/constipation/",
+      "topic": "constipation",
+      "word_count": 2199
+    },
+    {
+      "filename": "NHS UK_hemorrhoids_20251121_190648.txt",
+      "title": "Piles (haemorrhoids)",
+      "source": "NHS (UK)",
+      "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/treatment/",
+      "topic": "hemorrhoids",
+      "word_count": 3095
+    },
+    {
+      "filename": "NHS UK_constipation_20251121_190651.txt",
+      "title": "Constipation",
+      "source": "NHS (UK)",
+      "url": "https://www.nhs.uk/conditions/constipation/treatment/",
+      "topic": "constipation",
+      "word_count": 2199
+    }
+  ]
+}

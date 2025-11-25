@@ -1,0 +1,16 @@
+URLs that require manual download (403 Forbidden or PDFs):
+================================================================================
+
+https://www.hopkinsmedicine.org/health/conditions-and-diseases/hemorrhoids
+https://www.hopkinsmedicine.org/health/wellness-and-prevention/constipation-causes-and-prevention-tips
+https://gastro.org/clinical-guidance/evaluation-and-management-of-constipation/
+https://gastro.org/clinical-guidance/aga-clinical-practice-update-on-medical-management-of-chronic-idiopathic-constipation/
+https://gastro.org/clinical-guidance/aga-clinical-practice-guideline-on-the-pharmacological-management-of-irritable-bowel-syndrome-with-constipation/
+https://gastro.org/practice-guidance/gi-patient-center/topic/hemorrhoids/
+https://gastro.org/practice-guidance/gi-patient-center/topic/constipation/
+https://gastro.org/practice-guidance/gi-patient-center/topic/irritable-bowel-syndrome-ibs/
+https://gi.org/topics/irritable-bowel-syndrome/
+https://gi.org/topics/constipation/
+https://gi.org/patients/gihealth/hemorrhoids/
+https://gi.org/patients/gihealth/constipation/
+https://gi.org/patients/gihealth/irritable-bowel-syndrome/

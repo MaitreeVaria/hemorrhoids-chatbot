@@ -1,0 +1,27 @@
+{
+  "generated_at": "2025-11-24T13:59:32.103655",
+  "overall_performance": {
+    "average_score": 91.875,
+    "pass_rate": 81.25,
+    "total_cases": 16
+  },
+  "failure_analysis": {
+    "total_failures": 0,
+    "by_category": {},
+    "weak_dimensions": {
+      "safety": 3,
+      "actionability": 1
+    },
+    "common_issues": {}
+  },
+  "failed_cases": [],
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "dimension": "Safety",
+      "issue": "Not detecting red flags appropriately",
+      "fix": "Update SYSTEM_PROMPT to be more explicit about red flag symptoms. Add more patterns to RED_FLAG_PATTERNS in patient_chatbot.py",
+      "example_addition": "\nAdd to SYSTEM_PROMPT:\n\"ALWAYS check for these red flags in every response:\n- Heavy bleeding (filling toilet bowl, blood clots)\n- Black/tarry stools (sign of upper GI bleeding)\n- Severe unrelenting pain\n- High fever (>101\u00b0F)\n- Dizziness/fainting (sign of blood loss)\n- Inability to pass stool for 3+ days\n\nIf ANY red flag is present, IMMEDIATELY advise seeking medical attention.\"\n"
+    }
+  ]
+}
