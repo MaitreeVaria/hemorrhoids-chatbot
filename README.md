@@ -2,8 +2,6 @@
 
 A patient-friendly RAG chatbot focused on hemorrhoids and constipation. It provides empathetic guidance, detects red flags, and grounds answers in trusted medical sources (ACG, ASCRS, AGA). The system includes persistent conversation memory and a rigorous evaluation pipeline (LLM-as-judge + human/doctor review).
 
-[View presentation (PDF)](link-to-presentation) ← replace with your URL
-
 ![Architecture](images/architecture.png)
 
 ### Key Features
@@ -132,19 +130,6 @@ Add your figures in `images/` using the names above to render them here.
 - `faiss_index/`: persisted vectorstore (generated)
 - `test_data/` and `test_results/`: inputs and outputs for evaluation
 - `integrations/supabase_utils.py`: optional patient context integration
-
----
-
-## Images & Presentation
-Place images in `images/`:
-- `architecture.png`
-- `results-summary.png`
-- `pass-rates.png`
-- `red-flags-vs-misses.png`
-
-Add your presentation link at the top by replacing `link-to-presentation` (host on Google Drive, GitHub Releases, or any public URL).
-
----
 
 ## Notes
 - We previously explored LoRA fine-tuning but did not use it in this repo; the `lora_finetune/` folder has been removed to keep the project focused on RAG with Claude and Med42-8B comparisons.
