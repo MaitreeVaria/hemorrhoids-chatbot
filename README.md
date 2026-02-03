@@ -1,4 +1,4 @@
-## Patient RAG Chatbot — Hemorrhoids & Constipation
+## Patient RAG Chatbot: Hemorrhoids & Constipation
 
 A patient-friendly RAG chatbot focused on hemorrhoids and constipation. It provides empathetic guidance, detects red flags, and grounds answers in trusted medical sources (ACG, ASCRS, AGA). The system includes persistent conversation memory and a rigorous evaluation pipeline (LLM-as-judge + human/doctor review).
 
