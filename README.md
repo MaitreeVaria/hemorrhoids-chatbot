@@ -116,8 +116,6 @@ Key findings:
 - LLM-as-judge regularly overestimates Med42-8B’s quality and misses failures.
 - Automated judging can support quick screening but cannot replace human review.
 
-Add your figures in `images/` using the names above to render them here.
-
 ---
 
 ## Repository Guide
@@ -133,6 +131,3 @@ Add your figures in `images/` using the names above to render them here.
 
 ## Notes
 - We previously explored LoRA fine-tuning but did not use it in this repo; the `lora_finetune/` folder has been removed to keep the project focused on RAG with Claude and Med42-8B comparisons.
-
-## License
-MIT (or update as needed).
